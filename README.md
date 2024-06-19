@@ -1,3 +1,7 @@
+
+
+[stock-manage-video.webm](https://github.com/yashjainme/product-management-dashboard/assets/100665924/e2e8dfb3-9d38-4d1f-8d4e-0c6d40edb7a4)
+
 # Product Management Dashboard
 
 This is a simple product management dashboard built with React and Next.js. It allows users to add products, search for products, and manage the quantity of products.
